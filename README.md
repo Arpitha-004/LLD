@@ -11,5 +11,4 @@ I)Guidewire Software Engineer 1
 
 II)Smartsheet Associate Software Engineer 
 1)Elevator System 
-(Follow-up discussion:
-  - Explain the logic behind a Triplex Group Control System with a single shared hall call button)
+(Follow-up discussion: Explain the logic behind a Triplex Group Control System with a single shared hall call button)
